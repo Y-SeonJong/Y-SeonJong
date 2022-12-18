@@ -5,8 +5,8 @@
 
 <h3 align="center"> ⚒️Introduce⚒️ </h3>
 <div align="center" style="text-align:center">
-  I want to be  <Strong>D</Strong>evelop <Strong>E</Strong>fficient <Strong>V</Strong>alue <br>
-    I'm Seon-jong Yang, a FrontEnd DEV who always thinks about which will result in more efficient results, higher performance, and more value.
+  어떻게 코드를 짜야 더 효율적이고 높은 성능을 가질 수 있을 지에 대하여 항상 고민하는 신입 개발자 양선종입니다.
+  사용자들이 좀 더 편안하고, 친숙함을 느끼는 서비스를 구현하는 개발자가 되는 것이 목표입니다
 </div>
 
 <h3 align="center"> ⚒️Tech Stack⚒️ </h3>
